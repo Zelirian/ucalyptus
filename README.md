@@ -5,3 +5,5 @@
 - Interested in Graph Deep Learning and Differential Geometry :books:
 - Hobby: Contributing to my favourite open source ML projects. :earth_asia:
 - Part Time Machine Learning Trainer. :man_teacher:
+
+![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true)
