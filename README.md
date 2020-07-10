@@ -21,3 +21,15 @@
 <a href="https://github.com/ucalyptus/scikit-on-gRPC">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC" />
 </a>
+<a href="https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=Pneumothorax-Segmentation-using-Hypercolumns" />
+</a>
+<a href="https://github.com/ucalyptus/EarthEngine-Deep-Learning">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning" />
+</a>
+<a href="https://github.com/ucalyptus/ML-Summit-Workshops">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=ML-Summit-Workshops" />
+</a>
+<a href="https://github.com/IEM-Computer-Vision/ICCV19-Paper-Review">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IEM-Computer-Vision&repo=ICCV19-Paper-Review" />
+</a>
