@@ -8,9 +8,9 @@
 - Contact me for research collaborations at sdas.codes@gmail.com
 
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true)
-[![ReadMe Card](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify)](https://github.com/ucalyptus/keras-notify)
-<a href="https://github.com/ucalyptus/ML-Summit-Workshops">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=ML-Summit-Workshops" />
+
+<a href="https://github.com/ucalyptus/keras-notify">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify" />
 </a>
 <a href="https://github.com/ucalyptus/HybridSN-Pytorch">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch" />
