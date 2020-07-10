@@ -8,3 +8,28 @@
 - Contact me for research collaborations at sdas.codes@gmail.com
 
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true)
+
+<a href="https://github.com/ucalyptus/Spotify-Recommendation-Engine">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=Spotify-Recommendation-Engine" />
+</a>
+<a href="https://github.com/ucalyptus/keras-notify">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify" />
+</a>
+<a href="https://github.com/ucalyptus/HybridSN-Pytorch">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch" />
+</a>
+<a href="https://github.com/ucalyptus/GaborConv2D">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=GaborConv2D" />
+</a>
+<a href="https://github.com/ucalyptus/BS-Nets-Implementation-Pytorch">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=BS-Nets-Implementation-Pytorch" />
+</a>
+<a href="https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=Pneumothorax-Segmentation-using-Hypercolumns" />
+</a>
+<a href="https://github.com/ucalyptus/scikit-on-gRPC">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC" />
+</a>
+<a href="https://github.com/ucalyptus/EarthEngine-Deep-Learning">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning" />
+</a>
