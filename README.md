@@ -10,26 +10,26 @@
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true)
 
 <a href="https://github.com/ucalyptus/keras-notify">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/HybridSN-Pytorch">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/GaborConv2D">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=GaborConv2D" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=GaborConv2D&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/scikit-on-gRPC">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=Pneumothorax-Segmentation-using-Hypercolumns" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=Pneumothorax-Segmentation-using-Hypercolumns&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/EarthEngine-Deep-Learning">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/ML-Summit-Workshops">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=ML-Summit-Workshops" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ucalyptus&repo=ML-Summit-Workshops&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/IEM-Computer-Vision/ICCV19-Paper-Review">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IEM-Computer-Vision&repo=ICCV19-Paper-Review" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=IEM-Computer-Vision&repo=ICCV19-Paper-Review&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
