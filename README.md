@@ -4,7 +4,7 @@
 - I love implementing research papers in Pytorch or TF2 :memo:
 - Interested in Graph Deep Learning and Differential Geometry :books:
 - Hobby: Contributing to my favourite open source ML projects. :earth_asia:
-- Part Time Machine Learning Trainer. :man_teacher:
+- [Part Time Machine Learning Trainer.](https://ucalyptus.github.io/Tuitions.pdf) :man_teacher:
 - Contact me for research collaborations at sdas.codes@gmail.com
 
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true)
@@ -33,5 +33,3 @@
 <a href="https://github.com/IEM-Computer-Vision/ICCV19-Paper-Review">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=IEM-Computer-Vision&repo=ICCV19-Paper-Review&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
