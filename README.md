@@ -4,7 +4,7 @@
 - I love implementing research papers in Pytorch or TF2 :memo:
 - Interested in Graph Deep Learning and Differential Geometry :books:
 - Hobby: Contributing to my favourite open source ML projects. :earth_asia:
-- [Part Time Machine Learning Trainer.](https://ucalyptus.github.io/Tuitions.pdf) :man_teacher:
+- Part Time Machine Learning [Trainer](https://ucalyptus.github.io/Tuitions.pdf). :man_teacher:
 - Contact me for research collaborations at sdas.codes@gmail.com
 
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true)
