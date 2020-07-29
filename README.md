@@ -7,23 +7,23 @@
 - Part Time Machine Learning [Trainer](https://ucalyptus.github.io/Tuitions.pdf). :man_teacher:
 - Contact me for research collaborations at sdas.codes@gmail.com
 
-![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://github.com/ucalyptus/keras-notify">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/HybridSN-Pytorch">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/GaborConv2D">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=GaborConv2D&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=GaborConv2D&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/scikit-on-gRPC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=Pneumothorax-Segmentation-using-Hypercolumns&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=Pneumothorax-Segmentation-using-Hypercolumns&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/EarthEngine-Deep-Learning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning&title_color=f00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning&title_color=FF5D00&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
