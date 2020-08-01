@@ -14,8 +14,8 @@
 <a href="https://github.com/ucalyptus/HybridSN-Pytorch">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=HybridSN-Pytorch&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/ucalyptus/GaborConv2D">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=GaborConv2D&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/ucalyptus/Paper-Highlights">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=Paper-Highlights&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ucalyptus/scikit-on-gRPC">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=scikit-on-gRPC&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
