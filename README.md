@@ -1,4 +1,4 @@
-# Hi there, :alien:
+# Sayantan Das
 - Currently working as a research assistant at CVPR Unit , ISI Kolkata :man_scientist:
 - Open to [freelancing on research projects](https://www.upwork.com/freelancers/~0139f294fdcaa78408?s=1031626803146899456). :desktop_computer:
 - I love implementing research papers in Pytorch or TF2 :memo:
