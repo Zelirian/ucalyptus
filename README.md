@@ -5,6 +5,7 @@
 - Interested in Graph Representation Learning and Abstract Algebra :books:
 - Hobby: Contributing to my favourite open source ML projects. :earth_asia:
 - Contact me for research collaborations at sdas.codes@gmail.com
+- Check out my Pycon India 2020 Proposal [here](https://in.pycon.org/cfp/2020/proposals/automate-machine-learning-tasks-with-github-actions~bkRQ6/).Upvote if you like.
 
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515)
 
