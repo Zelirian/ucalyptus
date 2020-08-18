@@ -27,5 +27,6 @@
 <a href="https://github.com/ucalyptus/EarthEngine-Deep-Learning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 </a>
-<img src="traj.gif" width="500px" align="left">
-<b>Below I use normalizing flows to approximate the distribution of my Github Profile Picture.</b>
+<img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="500px" align="left">
+</img>
+Using RealNVP to learn my github dp from gaussian samples.
