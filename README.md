@@ -27,6 +27,7 @@
 <a href="https://github.com/ucalyptus/EarthEngine-Deep-Learning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=EarthEngine-Deep-Learning&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 </a>
-<img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="500px" align="left">
-</img>
-Using RealNVP to learn my github dp from gaussian samples.
+<div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="500px" align="left"/>Using RealNVP to learn my github dp from gaussian samples.</div>
+
+
+
