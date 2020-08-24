@@ -7,6 +7,8 @@
 - Contact me for research collaborations at sdas.codes@gmail.com
 - Check out my Pycon India 2020 Proposal [here](https://in.pycon.org/cfp/2020/proposals/automate-machine-learning-tasks-with-github-actions~bkRQ6/). Upvote if you like.
 - Down Below :point_down: Using Generative Modeling to learn my github dp from gaussian samples [left].True distribution [right].
+- Want to chat? Message me on [Telegram](https://t.me/ucalyptus)
+
 ![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://github.com/ucalyptus/keras-notify">
