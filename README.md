@@ -13,7 +13,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 
 <a href="https://github.com/ucalyptus/keras-notify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
