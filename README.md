@@ -12,7 +12,8 @@
 <div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="400px" align="left"/><img src="https://github.com/ucalyptus/ucalyptus/blob/master/omaa.png?raw=true" width="400px" align="right"/></div>
 
 
-![Sayantan's github stats](https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ucalyptus&show_icons=true&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
 
 <a href="https://github.com/ucalyptus/keras-notify">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ucalyptus&repo=keras-notify&title_color=FF5D00&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
