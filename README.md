@@ -1,6 +1,11 @@
 # About Me
 - Currently working as a research associate at CVPR Unit , ISI Kolkata on intersection of Remote Sensing and Deep Learning.
 - Particularly interested in Optimization,Algebraic Geometry,Generative Modeling and 3D Vision.
+- Other than research, I also do AI freelancing on various platforms.
+- I am very active on Github where I contribute to popular organizations like Pytorch or Tensorflow or I create meaningful softwares from scratch.
+- Occasionally I conduct workshops in conferences and hackathons.
+- I also mentor students or fellow scholars in Software Engineering,Artificial Intelligence or MLOps.
+- _NEW_: Doing Academic Service as a reviewer for IEEE Geoscience and Remote Sensing Letters.
 
 ## Research
 
