@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ucalyptus/ucalyptus/master/Sayantan%20Das.gif" width="1000px" height="400px" align="center"/>
+
 # About Me
 - Currently working as a research associate at CVPR Unit , ISI Kolkata on intersection of Remote Sensing and Deep Learning.
 - Particularly interested in Optimization,Algebraic Geometry,Generative Modeling and 3D Vision.
@@ -17,3 +19,7 @@
 - [LINKEDIN](https://www.linkedin.com/in/ucalyptus/)
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
+
+## :point_down: Generative Modeling is awesome.
+
+<div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="400px" align="left"/><img src="https://github.com/ucalyptus/ucalyptus/blob/master/omaa.png?raw=true" width="400px" align="right"/></div>
