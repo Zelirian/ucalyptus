@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ucalyptus/ucalyptus/master/Sayantan%20Das.gif" width="1000px" height="400px" align="center"/>
+<img src="https://raw.githubusercontent.com/ucalyptus/ucalyptus/master/anim3.gif" width="1000px" height="400px" align="center"/>
 
 # About Me
 - Currently working as a research associate at CVPR Unit , ISI Kolkata on intersection of Remote Sensing and Deep Learning.
