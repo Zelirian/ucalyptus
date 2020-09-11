@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ucalyptus)](https://github.com/ucalyptus)
 # About Me
 - Currently working as a research associate at CVPR Unit , ISI Kolkata on intersection of Remote Sensing and Deep Learning.
 - Particularly interested in Optimization,Algebraic Geometry,Generative Modeling and 3D Vision.
