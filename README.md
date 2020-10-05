@@ -7,6 +7,7 @@
 - Occasionally I conduct workshops in conferences and hackathons.
 - I also mentor students or fellow scholars in Software Engineering,Artificial Intelligence or MLOps.
 - _NEW_: Doing Academic Service as a reviewer for IEEE Geoscience and Remote Sensing Letters.
+- I code mostly ML in Python and learning to do the same in Julia.
 
 ## Research
 
