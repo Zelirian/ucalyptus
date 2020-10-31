@@ -1,17 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ucalyptus)](https://github.com/ucalyptus)
 # About Me
-- Currently working as a research associate at CVPR Unit , ISI Kolkata on intersection of Remote Sensing and Deep Learning.
-- Particularly interested in Optimization,Algebraic Geometry,Generative Modeling and 3D Vision.
-- Other than research, I also do AI freelancing on various platforms.
-- I am very active on Github where I contribute to popular organizations like Pytorch or Tensorflow or I create meaningful softwares from scratch.
-- Occasionally I conduct workshops in conferences and hackathons.
-- I also mentor students or fellow scholars in Software Engineering,Artificial Intelligence or MLOps.
-- _NEW_: Doing Academic Service as a reviewer for IEEE Geoscience and Remote Sensing Letters.
-- I code mostly ML in Python and learning to do the same in Julia.
-
+- Particularly interested in Differential Geometry and 3D Generative Modeling.
 ## Research
-
-- **DARecNet-BS:Unsupervised Dual-Attention Reconstruction Network for Hyperspectral Band Selection** accepted for IEEE Geoscience and Remote Sensing Letters(3.833 Impact Factor). [IEEE Early Access](https://ieeexplore.ieee.org/document/9164906) | [PDF](https://ucalyptus.github.io/FirstPaper.pdf) 
+- **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted for NeurIPS 2020 Workshop TDA and Beyond.
 
 ## Contact
 
