@@ -2,7 +2,7 @@
 # About Me
 - Particularly interested in Differential Geometry and 3D Generative Modeling.
 ## Research
-- **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted for NeurIPS 2020 Workshop TDA and Beyond.
+- **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond.
 
 ## Contact
 
