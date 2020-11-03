@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ucalyptus)](https://github.com/ucalyptus)
 # About Me
-- Particularly interested in Differential Geometry and 3D Generative Modeling.
+- Primarily interested in applications of topological and geometric methods in deep learning. 
 ## Research
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. Code coming soon.
 
