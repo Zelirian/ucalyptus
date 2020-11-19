@@ -1,11 +1,25 @@
 # About Me
-- Primarily interested in applications of topological and geometric methods in deep learning. 
-## Research
+- A recent graduate from Institute of Engineering and Management Kolkata in Computer Science and Engineering. Advised by Prof. Sourav 
+- Primarily a researcher in Computer Vision , with specific interests in answering these questions:
+1. Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
+2. Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
+
+Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked with <b>Dr. Manavalu Ramanujam</b> and <b> Prof. Bhabatosh Chanda</b> on Microwave Image Processing and Hyperspectral Deep Learning respectively.
+
+In my free time , I read about Biblical mythology and Philosophy. In my next life , I would definitely try to deconstruct how we came here where we are.
+
+## Research Papers
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. Code coming soon.
+## Software
+- **[Spotify Recommendation Engine](https://github.com/ucalyptus/Spotify-Recommendation-Engine)** is a music recommender system based on matrix factorization techniques arguably actually used by the Spotify Team (just not scaled up like theirs is). This is a work in progress project and has garnered some interests at Open Source programs. If you want to contribute , feel free to open an issue or comment below any of the existing ones.
+
 ## Contact
 - Contact me for research collaborations at _sdas.codes@gmail.com_
 - [LINKEDIN](https://www.linkedin.com/in/ucalyptus/)
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
-## :point_down: Generative Modeling is awesome.
+
+
+
+### Continuous Normalizing Flows are awesome. 
 <div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="400px" align="left"/><img src="https://github.com/ucalyptus/ucalyptus/blob/master/omaa.png?raw=true" width="400px" align="right"/></div>
