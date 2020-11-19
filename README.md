@@ -1,10 +1,10 @@
 # About Me
-- A recent graduate from Institute of Engineering and Management Kolkata in Computer Science and Engineering. Advised by Prof. Sourav 
+- A recent graduate from Institute of Engineering and Management Kolkata in Computer Science and Engineering.
 - Primarily a researcher in Computer Vision , with specific interests in answering these questions:
-1. Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
-2. Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
+    - Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
+    - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
 
-Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked with <b>Dr. Manavalu Ramanujam</b> and <b> Prof. Bhabatosh Chanda</b> on Microwave Image Processing and Hyperspectral Deep Learning respectively.
+Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked on Microwave Image Processing and Hyperspectral Deep Learning respectively.
 
 In my free time , I read about Biblical mythology and Philosophy. In my next life , I would definitely try to deconstruct how we came here where we are.
 
