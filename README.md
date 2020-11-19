@@ -11,7 +11,7 @@ In my free time , I read about Biblical mythology and Philosophy. In my next lif
 ## Research Papers
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. Code coming soon.
 ## Software
-- **[Spotify Recommendation Engine](https://github.com/ucalyptus/Spotify-Recommendation-Engine)** is a music recommender system based on matrix factorization techniques arguably actually used by the Spotify Team (just not scaled up like theirs is). This is a work in progress project and has garnered some interests at Open Source programs. If you want to contribute , feel free to open an issue or comment below any of the existing ones.
+- **[Spotify Recommendation Engine](https://github.com/ucalyptus/Spotify-Recommendation-Engine)** is a music recommender system based on matrix factorization techniques (arguably) used by the Spotify Team (just not scaled up like theirs is). This is a work in progress project and has garnered some interests at Open Source programs. If you want to contribute , feel free to open an issue or comment below any of the existing ones.
 
 ## Contact
 - Contact me for research collaborations at _sdas.codes@gmail.com_
