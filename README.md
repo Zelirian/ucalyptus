@@ -1,5 +1,4 @@
 # About Me
-- A recent graduate from Institute of Engineering and Management Kolkata in Computer Science and Engineering.
 - Primarily a researcher in Computer Vision , with specific interests in answering these questions:
     - Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
     - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
@@ -18,8 +17,6 @@ In my free time , I read about Biblical mythology and Philosophy. In my next lif
 - [LINKEDIN](https://www.linkedin.com/in/ucalyptus/)
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
-
-[![GitHub metrics](https://metrics.lecoq.io/ucalyptus?followup=1&isocalendar=1)](https://github.com/lowlighter/metrics)
 
 ### Continuous Normalizing Flows are awesome. 
 <div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="400px" align="left"/><img src="https://github.com/ucalyptus/ucalyptus/blob/master/omaa.png?raw=true" width="400px" align="right"/></div>
