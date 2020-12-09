@@ -5,7 +5,7 @@
 
 Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked on Microwave Image Processing and Hyperspectral Deep Learning respectively.
 
-In my free time , I read about Biblical mythology and Philosophy. In my next life , I would definitely try to deconstruct how we came here where we are.
+In my free time , I read about Biblical mythology and Philosophy and an ardent fan of Nietzsche and Albert Camus.
 
 ## Research Papers
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. [Link to poster](https://openreview.net/attachment?id=OTxZfmVFlTO&name=Poster) [Link to NeurIPS talk](https://slideslive.com/38941572/topo-sampler-a-topology-constrained-noise-sampling-for-gans)
