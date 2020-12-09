@@ -2,6 +2,8 @@
 - Primarily a researcher in Computer Vision , with specific interests in answering these questions:
     - Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
     - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
+    
+# Ultimate Research Goal : AI for Social Good
 
 Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked on Microwave Image Processing and Hyperspectral Deep Learning respectively.
 
