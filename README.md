@@ -9,6 +9,8 @@ Other than this, I have previously worked at Indian Space Research Organisation 
 
 In my free time , I read about Biblical mythology and Philosophy and an ardent fan of Nietzsche and Albert Camus.
 
+Feel free to  discuss anything [here](https://github.com/ucalyptus/ucalyptus/discussions/1).
+
 ## Research Papers
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. [Link to poster](https://openreview.net/attachment?id=OTxZfmVFlTO&name=Poster) [Link to NeurIPS talk](https://slideslive.com/38941572/topo-sampler-a-topology-constrained-noise-sampling-for-gans)
 ## Software
