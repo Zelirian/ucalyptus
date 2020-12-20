@@ -22,6 +22,6 @@ Feel free to  discuss anything [here](https://github.com/ucalyptus/ucalyptus/dis
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
 
-### Continuous Normalizing Flows are awesome. 
+### Density estimation of Kenshiro's image using CNFs.
 <div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="400px" align="left"/><img src="https://github.com/ucalyptus/ucalyptus/blob/master/omaa.png?raw=true" width="400px" align="right"/></div>
 
