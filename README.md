@@ -1,3 +1,7 @@
+"In science, self-satisfaction is death. Personal self-satisfaction is the death of the scientist. Collective self-satisfaction is the death of the research. It is restlessness, anxiety, dissatisfaction, agony of mind that nourish science."
+ -- _Jacques-Lucien Monod_
+
+
 # About Me
 - Primarily a researcher in Computer Vision , with specific interests in answering these questions:
     - Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
