@@ -21,7 +21,7 @@ Feel free to  discuss anything [here](https://github.com/ucalyptus/ucalyptus/dis
 - **[Spotify Recommendation Engine](https://github.com/ucalyptus/Spotify-Recommendation-Engine)** is a music recommender system based on matrix factorization techniques (arguably) used by the Spotify Team (just not scaled up like theirs is). This is a work in progress project and has garnered some interests at Open Source programs. If you want to contribute , feel free to open an issue or comment below any of the existing ones.
 
 ## Contact
-- Contact me for research collaborations at _sdas.codes@gmail.com_
+- Contact me for research collaborations at _hello@ucalyptus.me_
 - [LINKEDIN](https://www.linkedin.com/in/ucalyptus/)
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
