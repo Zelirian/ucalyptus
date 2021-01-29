@@ -11,8 +11,6 @@
 
 Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked on Microwave Image Processing and Hyperspectral Deep Learning respectively.
 
-In my free time , I read about Biblical mythology and Philosophy and an ardent fan of Nietzsche and Albert Camus.
-
 Feel free to  discuss anything [here](https://github.com/ucalyptus/ucalyptus/discussions/1).
 
 ## Research Papers
