@@ -7,11 +7,9 @@
     - Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
     - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
     
-# Ultimate Research Goal : AI for Social Good
+## News
+- Accepted an invitation to be a reviewer for [ICLR 2021 Workshop - Rethinking ML Papers](https://openreview.net/group?id=ICLR.cc/2021/Workshop/Rethinking_ML_Papers).
 
-Other than this, I have previously worked at Indian Space Research Organisation and Indian Statistical Institute Kolkata where I worked on Microwave Image Processing and Hyperspectral Deep Learning respectively.
-
-Feel free to  discuss anything [here](https://github.com/ucalyptus/ucalyptus/discussions/1).
 
 ## Research Papers
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. [Link to poster](https://openreview.net/attachment?id=OTxZfmVFlTO&name=Poster) | [Link to NeurIPS talk](https://slideslive.com/38941572/topo-sampler-a-topology-constrained-noise-sampling-for-gans)
