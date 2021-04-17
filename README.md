@@ -8,6 +8,8 @@
     - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
     
 ## News
+- Written a blog on [Score Based Generative Modeling Techniques](https://ucalyptus.me/posts/2021/04/blog-post-1/)
+- Started a Generative Modeling Colloquium at journal.club - [Link](https://www.thejournal.club/c/club/12/)
 - Accepted an invitation to be a reviewer for ICLR 2021 Workshop - Rethinking ML Papers.
 
 ## Research Papers
