@@ -7,7 +7,7 @@
     - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
     
 ## News
-- Accepted an invitation to be Program Committee member of LatinX in AI for ICML 2021.
+- Accepted an invitation to be a reviewer of Computational Approaches to Mental Health Workshop (CA2MH) for ICML 2021.
 - My new blogpost on [THE GEOMETRY OF DEEP GENERATIVE IMAGE MODELS AND ITS APPLICATIONS](https://ucalyptus.me/posts/2021/05/blog-post-2/)
 
 ## Research Papers
