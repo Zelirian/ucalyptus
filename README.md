@@ -8,6 +8,7 @@
     
 ## News
 - Accepted an invitation to be a reviewer of Computational Approaches to Mental Health Workshop (CA2MH) for ICML 2021.
+- My new blogpost on [Pivotal Tuning for Latent-based editing of Real Images](https://ucalyptus.me/posts/2021/08/blog-post-3/)
 - My new blogpost on [THE GEOMETRY OF DEEP GENERATIVE IMAGE MODELS AND ITS APPLICATIONS](https://ucalyptus.me/posts/2021/05/blog-post-2/)
 
 ## Research Papers
