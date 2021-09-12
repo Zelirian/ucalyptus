@@ -10,6 +10,7 @@
 - Accepted an invitation to be a reviewer of Computational Approaches to Mental Health Workshop (CA2MH) for ICML 2021.
 - My new blogpost on [Pivotal Tuning for Latent-based editing of Real Images](https://ucalyptus.me/posts/2021/08/blog-post-3/)
 - My new blogpost on [THE GEOMETRY OF DEEP GENERATIVE IMAGE MODELS AND ITS APPLICATIONS](https://ucalyptus.me/posts/2021/05/blog-post-2/)
+- My new blogpost on [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](https://ucalyptus.me/posts/2021/09/blog-post-4/)
 
 ## Research Papers
 - **[Topo Sampler: A Topology Constrained Noise Sampling for GANs](https://openreview.net/forum?id=OTxZfmVFlTO)** accepted as a **spotlight** presentation for NeurIPS 2020 Workshop TDA and Beyond. [Link to poster](https://openreview.net/attachment?id=OTxZfmVFlTO&name=Poster) | [Link to NeurIPS talk](https://slideslive.com/38941572/topo-sampler-a-topology-constrained-noise-sampling-for-gans)
