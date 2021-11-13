@@ -18,11 +18,7 @@
 - **[Spotify Recommendation Engine](https://github.com/ucalyptus/Spotify-Recommendation-Engine)** is a music recommender system based on matrix factorization techniques (arguably) used by the Spotify Team (just not scaled up like theirs is). This is a work in progress project and has garnered some interests at Open Source programs. If you want to contribute , feel free to open an issue or comment below any of the existing ones.
 
 ## Contact
-- Contact me for research collaborations at _ucalyptus@yandex.com_
+- Email :  _ucalyptus@yandex.com_
 - [LINKEDIN](https://www.linkedin.com/in/ucalyptus/)
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
-
-### Density estimation of Kenshiro's image using CNFs.
-<div id="candy"><img src="https://github.com/ucalyptus/ucalyptus/blob/master/traj.gif?raw=true" width="400px" align="left"/><img src="https://github.com/ucalyptus/ucalyptus/blob/master/omaa.png?raw=true" width="400px" align="right"/></div>
-
