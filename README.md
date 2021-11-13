@@ -4,13 +4,9 @@
 # About Me
 - Primarily a researcher in Computer Vision , with specific interests in answering these questions:
     - Does knowing the topology of datasets help solve Variational Inference and Manifold Learning tasks?
-    - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?
-    
+    - Do non-euclidean spaces hold the key to better representing real world downstream vision tasks?  
 ## News
-- Download StyleGANv3 Pretrained weights in .pt
-```
-gdown --id 1HofXPEUTCGOZev8xEljt-lQjE034HlrI
-```
+- I'm hosting open office hours every Tuesday 12PM EST. Email me if you want to join the mailing list for the zoom links.
 - Accepted an invitation to be a reviewer of Computational Approaches to Mental Health Workshop (CA2MH) for ICML 2021.
 - My new blogpost on [Pivotal Tuning for Latent-based editing of Real Images](https://ucalyptus.me/posts/2021/08/blog-post-3/)
 - My new blogpost on [THE GEOMETRY OF DEEP GENERATIVE IMAGE MODELS AND ITS APPLICATIONS](https://ucalyptus.me/posts/2021/05/blog-post-2/)
@@ -22,7 +18,7 @@ gdown --id 1HofXPEUTCGOZev8xEljt-lQjE034HlrI
 - **[Spotify Recommendation Engine](https://github.com/ucalyptus/Spotify-Recommendation-Engine)** is a music recommender system based on matrix factorization techniques (arguably) used by the Spotify Team (just not scaled up like theirs is). This is a work in progress project and has garnered some interests at Open Source programs. If you want to contribute , feel free to open an issue or comment below any of the existing ones.
 
 ## Contact
-- Contact me for research collaborations at _hello@ucalyptus.me_
+- Contact me for research collaborations at _ucalyptus@yandex.com_
 - [LINKEDIN](https://www.linkedin.com/in/ucalyptus/)
 - [TWITTER](https://twitter.com/sayantandas_)
 - [RESEARCHGATE](https://www.researchgate.net/profile/Sayantan_Das22)
